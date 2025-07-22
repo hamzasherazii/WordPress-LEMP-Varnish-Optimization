@@ -174,5 +174,5 @@ Your site should now load significantly faster 🚀
 
 ---
 
-> 📘️ **Author:** \[Hamza Sherazi]
+> 📘️ **Author:** \Hamza Sherazi
 > 🕒 **Last updated:** July 2025
